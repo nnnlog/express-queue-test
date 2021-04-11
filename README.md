@@ -2,10 +2,14 @@
 Contrast experiment code for express-queue.
 
 ## Usage
-* Test for express-queue (an experiment group)<br>
+### Running web server
+`node app.js`
+* You should restart server when start experiment.
+
+### Test for express-queue (an experiment group)
 `node req_queue.js`
 
-* Test for original server (Control group)<br>
+### Test for original server (Control group)
 `node req_not_queue.js`
 
 ## Result
