@@ -1,0 +1,12 @@
+{
+  "name": "express-queue-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-queue": "^0.0.12"
+  }
+}
